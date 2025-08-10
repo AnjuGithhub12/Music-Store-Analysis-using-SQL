@@ -54,4 +54,4 @@ The queries are divided into **three difficulty levels**:
 ---
 
 ## 📜 Schema Diagram
-<img width="594" height="598" alt="schema_diagram" src="https://github.com/user-attachments/assets/7ca96604-70d8-4b68-b406-1b4b26cc0007" />
+<img width="594" height="598" alt="schema_diagram" src="https://github.com/user-attachments/assets/4c89b606-6b43-4bb9-aa44-3e58992b13d4" />
